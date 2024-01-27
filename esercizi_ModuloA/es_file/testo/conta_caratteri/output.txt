@@ -1,5 +1,0 @@
-La parola 'I' ha: 1 caratteri.
-La parola 'topi' ha: 4 caratteri.
-La parola 'non' ha: 3 caratteri.
-La parola 'avevano' ha: 7 caratteri.
-La parola 'nipoti' ha: 6 caratteri.
