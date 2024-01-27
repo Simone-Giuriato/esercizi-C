@@ -1,0 +1,10 @@
+Terremoti ad ALta Magnitudine (>5):
+ 6.732420 125.300003 34.799999 6.000000 Philippines_[Land]
+ -3.677340 146.003998 10.200000 6.200000 Papua_New_Guinea_[Sea]
+ -22.865601 171.531998 15.600000 6.000000 New_Caledonia_[Sea]
+ -5.589840 101.735001 10.200000 6.300000 Southwest_of_Sumatera_Indonesia_[Sea:_Indonesia]
+ -22.872700 171.524002 0.800000 7.500000 New_Caledonia_[Sea]
+ -22.773001 171.145996 10.000000 6.100000 New_Caledonia_[Sea]
+ -23.167999 171.539993 19.500000 6.500000 New_Caledonia_[Sea]
+ -22.788300 171.020004 19.500000 6.000000 New_Caledonia_[Sea]
+ -22.907801 171.272003 17.200001 6.100000 New_Caledonia_[Sea]
