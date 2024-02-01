@@ -1,0 +1,1 @@
+void lettura(int M[255][255], int *W, int *H, int *S);
