@@ -1,7 +1,7 @@
 /*COMANDI:
 gcc -c main.c
 gcc -c funzioni.c
-gcc -o anagrafe main.c funzioni c 
+gcc -o anagrafe main.o funzioni.o
 ./anagrafe*/
 
 
